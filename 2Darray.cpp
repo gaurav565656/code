@@ -120,4 +120,3 @@ int main() {
    cout << " Max row is at index " << ansIndex << endl;
 
     return 0;
-}
